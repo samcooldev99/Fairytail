@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html>
+    
+    
+  <head>
+    <script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
+     
+  </head>
+  <body>
+      
+    <a-scene>
+        <a-assets>
+            <a-asset-item id="object" src="assets/office-obj/office.obj"></a-asset-item>
+            <a-asset-item id="material" src="assets/office-obj/office.mtl"></a-asset-item>
+            
+             </a-assets>
+        
+           <a-obj-model src="#object" mtl="#material"></a-obj-model>
+        <a-box color="#FFF" depth="1.8" height="3.0" width="0.12"
+               position="6.7 2.3 -7.7">
+        <a-entity text= "value: TASK LIST:; color:black"></a-entity> 
+            
+ 
+            
+
+        </a-box>
+        
+       
+        
+        
+      </a-scene>
+  </body>
+</html>
