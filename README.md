@@ -20,3 +20,9 @@ Using IBM WATSON services like computer visioning and virtual reality speech san
 1. Clone The "DEMO" folder and open xampp. Run the APACHE & MYSQL.
 2. click on index.html
 3. THE VR WILL OPEN IN BROWSER(RECOMMENDED CHROME BROWSER)
+
+# link to online vr
+https://gamy-adaptable-yamamomo.glitch.me
+procedure:
+after link opens
+open demo
