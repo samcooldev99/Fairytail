@@ -14,6 +14,6 @@ There are already communities like Mozilla and organizations out there using thi
 Software's used: A-Frame( Mozilla supported and running platform )
 
 Instructions to Run:
-1. Open Demo FOLDER
-2. click on the Index.html
+1. Clone The "DEMO" folder and open xampp. Run the APACHE & MYSQL.
+2. click on index.html
 3. THE VR WILL OPEN IN BROWSER(RECOMMENDED CHROME BROWSER)
